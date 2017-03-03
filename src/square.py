@@ -5,5 +5,10 @@ def my_square(x):
 	'''
 	return(x**2)
 
-print(my_square(8))
+def add(x,y):
+    return (x+y)
+
+my_square(8)
+add(8,9)
+
 
