@@ -13,7 +13,13 @@ def add(x,y):
     '''
     return (x+y)
 
+def multiply(x,y):
+    return (x*y)
+
+
+
+
 my_square(8)
 add(8,9)
-
+multiply(8*9)
 
